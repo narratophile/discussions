@@ -1,4 +1,4 @@
 # Discussions
 Discussions regarding **BUGS** and **PROBLEMS** with the site. 
 
-***All OTHER discussion stay on the Discord***
+***All OTHER discussions stay on the Discord***
